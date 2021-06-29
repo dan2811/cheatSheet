@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 5%;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(201, 201, 201);
+}
+
+p {
+    font-size: 1rem;
+}
+
+.code {
+    font-family: monospace;
+    background-color: black;
+    color: lawngreen;
+}
+table {
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    margin: 1rem;
+    padding: 5%;
+}
+td {
+    width: 30%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 2rem;
+    padding: 0.5rem;
+    border-spacing: 1rem;
+}
+thead {
+    font-size: 1.25rem;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(63, 63, 63);
+}
+
